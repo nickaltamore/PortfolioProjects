@@ -1,0 +1,4 @@
+A Power BI dashboard exploring cetacean strandings around the United Kingdom and Ireland between 1913 - 1989. 
+I have used drill through to provide the user with further information about individual strandings and created decomosition trees accessible from the front page to provide analysis of strandings by year and month. I have also converted the map tool tip to show a table with some brief information about the strandings. 
+The data used in this dashboard was taken from: 
+Natural History Museum (2018). UK cetacean strandings 1913-1989 (from Historical UK cetacean strandings dataset (1913-1989)) [Data set resource]. Natural History Museum. https://data.nhm.ac.uk/dataset/historical-uk-cetacean-strandings-dataset/resource/9a306dcd-1667-48b5-b682-ce6f071d85ce
