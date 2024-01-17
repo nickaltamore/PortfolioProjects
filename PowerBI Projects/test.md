@@ -1,3 +1,3 @@
 **Hello World**
 
-![Alt text]([PowerBI Projects/pics/Home.jpeg]
+![Alt text](PowerBI Projects/pics/Home.jpeg)
