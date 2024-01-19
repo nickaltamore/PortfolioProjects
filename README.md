@@ -4,5 +4,5 @@ I am currently engaged in a 12-week intensive Digital Skills Bootcamp in Data wi
 
 My immediate aim is to establish myself in a Junior Data Analysis role and work in a team of effective professionals from whom I can learn as much as possible during my first years in the industry. I am looking to use my data skills and problem-solving abilities to meet new challenges head on and contribute to making important data-driven decisions.
 
-LinkedIN: www.linkedin.com/in/nick-altamore-85750864
+<br>LinkedIn: www.linkedin.com/in/nick-altamore-85750864</br>
 Tableau Public: https://public.tableau.com/app/profile/nick.altamore/vizzes
